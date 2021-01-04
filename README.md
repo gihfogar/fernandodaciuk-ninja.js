@@ -16,4 +16,6 @@
 - [13 - > Array - toString, concat, unshift, shift, slice e splice, forEach, every, some, map, filter](./aula-13.js/)
 - [14 - > reduce() e reduceRight(), indexOf(), lastIndexOf() e isArray()](./aula-14.js/)
 
-![gif_cat](https://user-images.githubusercontent.com/73079636/103568070-d340f580-4ebc-11eb-85e6-bb0715656120.gif)
+<p align="center">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/73079636/103568070-d340f580-4ebc-11eb-85e6-bb0715656120.gif">
+</p>
